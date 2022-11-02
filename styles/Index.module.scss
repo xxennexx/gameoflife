@@ -4,8 +4,13 @@
     flex-direction: column;
 }
 
+@media (prefers-color-scheme: dark) {
+    .logo {
+        filter: invert(100%);
+    }
+}
+
 .logo {
-    filter: invert(100%);
     margin-top: 10%;
 }
 
