@@ -1,0 +1,19 @@
+.centerText {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.logo {
+    filter: invert(100%);
+    margin-top: 10%;
+}
+
+.title {
+    font-size: 25px;
+}
+
+.subtitle {
+    font-size: 12px;
+    font-weight: 100;
+}
