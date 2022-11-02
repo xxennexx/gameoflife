@@ -15,4 +15,4 @@ Automatic size:
 
 ## TODOs
 - Infinite mode (will probably require some optimization)
-- Center auto-sized grid
+- Center auto-sized grid ✅

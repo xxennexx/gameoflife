@@ -1,5 +1,5 @@
 {
     "trailingComma": "all",
     "tabWidth": 4,
-    "endOfLine": "auto"
+    "endOfLine": "crlf"
 }

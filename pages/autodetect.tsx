@@ -1,6 +1,7 @@
 import Head from "next/head";
 import { FC } from "react";
 import Canvas from "../components/Canvas";
+import styles from "../styles/Canvas.module.scss";
 
 const AutoMode: FC = () => {
     return (
@@ -15,7 +16,9 @@ const AutoMode: FC = () => {
                 <link rel="icon" href="/logo.png" />
             </Head>
 
-            <Canvas size="autodetect" blockSize={50} />
+            <div className={styles.autoCanvasWrapper}>
+                <Canvas size="autodetect" blockSize={50} />
+            </div>
         </>
     );
 };
