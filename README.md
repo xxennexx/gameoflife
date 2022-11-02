@@ -11,7 +11,7 @@ The component supports 3 modes (sizes):
 Fixed size:
 ![image](https://user-images.githubusercontent.com/98538406/199595702-890c76f6-a8b3-4a7b-a814-e6043ef778be.png)
 Automatic size:
-![image](https://user-images.githubusercontent.com/98538406/199595848-c84679f0-baca-4833-bced-ecf7d6f3f074.png)
+![image](https://user-images.githubusercontent.com/98538406/199598154-dc9fdadc-9d20-40c2-8787-6939e15e2003.png)
 
 ## TODOs
 - Infinite mode (will probably require some optimization)
